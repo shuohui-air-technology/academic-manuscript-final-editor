@@ -23,7 +23,7 @@ SCRIPTS = ROOT / "scripts"
 SCANNER = SCRIPTS / "scan_manuscript_style.py"
 DISPOSITIONS = SCRIPTS / "check_scan_dispositions.py"
 SKILL_NAME = "academic-manuscript-final-editor"
-REFERENCES = ("defensive-rigor-signals.md", "editorial-style-rules.md")
+REFERENCES = ("defensive-rigor-signals.md", "editorial-style-rules.md", "readability-examples.md")
 EXPECTED_ROOT = {
     ".github", ".gitignore", "LICENSE", "README.en.md", "README.md",
     "SKILL.md", "agents", "references", "scripts", "tests",
